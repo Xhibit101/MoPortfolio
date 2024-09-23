@@ -1,0 +1,36 @@
+
+*{
+	margin: auto;
+	border-width: 2px;
+	padding: 2%;
+	outline: 2px; 
+}
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+	min-height: 20%
+}
+
+header {
+	height: 1vh;
+	width: 3%;
+	margin: 5%;
+}
+
+main {
+	min-height: 5vh;
+	width: 4%;
+	margin: auto;
+}
+
+
+.child {
+	display: inline-block;
+	border: 1px limegreen solid;
+	background-color: rgb(165, 69, 42);
+}
+
+footer {
+	text-align: left;
+	background-color: indigo
+}
